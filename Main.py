@@ -44,6 +44,7 @@ plt.xlabel('qA')
 plt.ylabel('Entropy in units of k')
 plt.title('Graph of Entropy versus $q_A$ for $N_A = N_B = 100$')
 plt.legend()
+
 plt.show()
 
 
